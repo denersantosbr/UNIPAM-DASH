@@ -1,0 +1,5 @@
+{
+  "name": "UNIPAM DASH",
+  "description": "A modern, responsive business intelligence dashboard for sales performance tracking, featuring data visualization, KPI monitoring, and file-based data ingestion.",
+  "requestFramePermissions": []
+}
